@@ -3,4 +3,4 @@ A = list(map(int, input().split()))
 
 for i in range(N):
     if A[i] < X:
-        print(A[i])
+        print(A[i], end=' ')
