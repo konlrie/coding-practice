@@ -6,7 +6,7 @@ def solution(participant, completion):
             return par
     return participant[-1]
 
-# 시간초과
+# 시간초과 -> zip함수 사용해야 함!
 # def solution(participant, completion):
 #     answer = ''
 #     for name in participant:
