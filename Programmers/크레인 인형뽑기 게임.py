@@ -21,6 +21,6 @@ def solution(board, moves):
                     break
     return result
 
-test_board = [[0,0,0,0,0],[0,0,1,0,3],[0,2,5,0,1],[4,2,4,4,2],[3,5,1,3,1]]
-test_moves = [1,5,3,5,1,2,1,4]
-print(solution(test_board, test_moves))
+# test_board = [[0,0,0,0,0],[0,0,1,0,3],[0,2,5,0,1],[4,2,4,4,2],[3,5,1,3,1]]
+# test_moves = [1,5,3,5,1,2,1,4]
+# print(solution(test_board, test_moves))
